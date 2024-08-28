@@ -1,8 +1,8 @@
-## Doing cool brain research 🧠
+<h2 align="center"> Hey I'm Zack! I do cool brain research 🧠 </h2>
 
-<h3 align="center"> Hey I'm Zack! </h3> 
-
-<h4 align="center"> Bioengineering PhD student at the University of Pennsylvania's Center for Neuroengineering and Therapeutics. </h4>
+<div style="width: 50%; margin: 0 auto;">
+  <h3 align="center"> Bioengineering PhD student at the University of Pennsylvania's Center for Neuroengineering and Therapeutics. </h3>
+</div>
 
 <br/>
 
