@@ -1,11 +1,5 @@
 <h2 align="center"> Hey I'm Zack! I do cool brain research 🧠 </h2>
 
-<div style="width: 50%; margin: 0 auto;">
-  <h3 align="center"> Bioengineering PhD student at the University of Pennsylvania's Center for Neuroengineering and Therapeutics. </h3>
-</div>
-
-<br/>
-
 <p align="center">
   <img width="50%" src="https://github-readme-stats-git-master-zacks-projects-0141e426.vercel.app/api?username=zackgoldblum&rank_icon=github&hide=stars,issues&number_format=long&show_icons=true&theme=holi"
        alt="Zack Goldblum :: GitHub Stats" />
