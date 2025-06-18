@@ -1,4 +1,4 @@
-<h2 align="center"> Hey I'm Zack! I do cool brain research 🧠 </h2>
+<h2 align="center"> Hey I'm Zack! I do translational neuroengineering research 🧠 </h2>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats-git-master-zacks-projects-0141e426.vercel.app/api?username=zackgoldblum&rank_icon=github&hide=stars,issues&number_format=long&show_icons=true&theme=holi"
